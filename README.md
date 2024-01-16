@@ -15,7 +15,7 @@ Uncover valuable insights into market trends, identify patterns, and understand 
 
 ## Usage
 
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone https://github.com/Abhipawar02/Cryptocurrency-Data-Analysis-and-Price-Prediction-Using-Deep-Learning-Models.git`
 2. Update the dataset path before running the notebook.
 3. Explore the Jupyter notebook for detailed analysis and predictions.
 
