@@ -8,7 +8,7 @@ Uncover valuable insights into market trends, identify patterns, and understand 
 
 ## Key Features
 
-- **Data Analysis:** Utilize five years of day-wise time series data from finance.yahoo.com.
+- **Data Analysis:** Utilize five years of day-wise time series data from [finance.yahoo.com](https://finance.yahoo.com/).
 - **Deep Learning Models:** Leverage advanced models for accurate price prediction.
 - **Market Insights:** Gain valuable insights into trends and patterns in the cryptocurrency market.
 - **Volatility Analysis:** Understand and analyze market volatility.
@@ -22,7 +22,3 @@ Uncover valuable insights into market trends, identify patterns, and understand 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues and pull requests.
-
-## License
-
-This project is licensed under the [Your License] - see the [LICENSE](LICENSE) file for details.
